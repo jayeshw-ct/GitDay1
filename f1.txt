@@ -1,2 +1,3 @@
 Hi this is File 1
 Day 2 changes in the file
+Day 2 Master changes of the file
